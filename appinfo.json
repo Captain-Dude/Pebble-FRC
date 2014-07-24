@@ -1,0 +1,27 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        "location",
+        "configurable"
+    ],
+    "companyName": "Damian Hill",
+    "longName": "FRC Scout",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/FRC Scout Logo.png",
+                "menuIcon": true,
+                "name": "FRC_Scout_Logo",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "FRC Scout",
+    "uuid": "1598c8fb-c8db-4f87-902e-65d2661ee825",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
